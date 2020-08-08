@@ -8,13 +8,13 @@ Please read [CONTRIBUTING](CONTRIBUTING) for details on our code of conduct, and
 
 ## Versioning
 
-We use [SemVer](http://semver.org/) for versioning. For the versions available, see the [tags on this repository](https://github.com/BytesCrafter/ReferAll-WP-Plugin/tags). 
+We use [SemVer](http://semver.org/) for versioning. For the versions available, see the [tags on this repository](https://github.com/BytesCrafter/EducaPress-WP-Plugin/tags). 
 
 ## Authors
 
-* **Bytes Crafter** - *Initial work* - [Github](https://github.com/BytesCrafter/ReferAll-WP-Plugin.git)
+* **Bytes Crafter** - *Initial work* - [Github](https://github.com/BytesCrafter/EducaPress-WP-Plugin.git)
 
-See also the list of [contributors](https://github.com/BytesCrafter/ReferAll-WP-Plugin/graphs/contributors) who participated in this project.
+See also the list of [contributors](https://github.com/BytesCrafter/EducaPress-WP-Plugin/graphs/contributors) who participated in this project.
 
 ## License
 
